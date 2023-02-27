@@ -1,0 +1,1 @@
+Basic selenium application that checks if the search bar is present on https://www.google.com
